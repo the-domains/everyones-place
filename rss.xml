@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Everyones Place ]]></title>
+        <description><![CDATA[Everyones Place ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Mar 2016 21:06:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to Everyone's Place: Acupuncture and Wellness, </p>]]></description>
+            <link>undefined96978c34-34f8-4675-9ace-7bb4111c44c3/index.html</link>
+            <guid isPermaLink="false">96978c34-34f8-4675-9ace-7bb4111c44c3</guid>
+            <pubDate>Wed, 02 Mar 2016 21:05:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

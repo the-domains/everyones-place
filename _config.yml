@@ -1,7 +1,7 @@
 name: 'Everyones Place '
 favicon: null
-layout_spectrum: 0.837918744655326
-typography_spectrum: 0.3048982743639499
+layout_spectrum: 0.99368
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#CEAFC0'
   brandStrength: 0.41303536016494036
   lightness: 0.2890574948396534
-  saturation: 0
+  saturation: 0.625
   rhythmicContrast: 0.5
 purpose: []
